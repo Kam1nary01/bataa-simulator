@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Yokoso bataa simulator e</title>
+    <title>aimrsda</title>
 </head>
 <body>
     <h1>welcome to the bathroom 1</h1>
