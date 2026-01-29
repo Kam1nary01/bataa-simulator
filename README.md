@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Hi bby<3</title>
+    <title>Bataa simulator</title>
 </head>
 <body>
-    <h1>welcome to the bathroom 1</h1>
-    <p>5005537814 dans ruu 10k hiisneer web ruu nevtreh erh batalgaajna.</p>
+    <h1>peak anime list</h1>
+    <p>1.Mob psycho 2.Mob psycho 3.Mob psycho</p>
 </body>
 </html>
