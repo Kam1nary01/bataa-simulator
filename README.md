@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>aimrsda</title>
+    <title>Bst</title>
 </head>
 <body>
     <h1>welcome to the bathroom 1</h1>
